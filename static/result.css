@@ -1,0 +1,39 @@
+.text-input{
+    margin-top: 50px;
+
+    margin : 0 auto;
+}
+
+.btn{
+    background-color: DodgerBlue;
+}
+
+.center{
+    margin : 0 auto;
+    width: 80%;
+}
+.real_center
+{
+    margin : 0 auto;
+}
+
+.flex{
+    display: flex;
+    justify-content : center;
+    margin-top : 20px;
+}
+
+.font_10{
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.count_result{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.word_count{
+    margin-right: 20px;
+}
